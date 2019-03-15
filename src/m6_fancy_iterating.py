@@ -471,7 +471,6 @@ def print_items_that_are_bigger_than_5(sequence):
         if (type(sequence[k]) is int):
          if sequence[k] > 5:
             print(sequence[k], 'is at index', k)
-
 ###############################################################################
 # Iterating through a sequence, selecting items:
 #   -- in this sample problem, the items that are strings.
